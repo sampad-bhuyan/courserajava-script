@@ -1,2 +1,2 @@
 # courserajava-script
-Java Script course of courser
+Java Script course of coursera
